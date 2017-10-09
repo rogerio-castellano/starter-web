@@ -2,7 +2,7 @@
 
 This is a simple website project for showing how to use Git and Github together.
 
-Alterado no cliente
+Alterado no servidor
 
 ## Introduction
 
